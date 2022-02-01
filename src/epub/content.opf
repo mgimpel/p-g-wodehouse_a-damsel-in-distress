@@ -40,7 +40,8 @@
 		<meta property="term" refines="#subject-3">sh2009117268</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008116951</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Comedy</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A humorous story of mistaken identity in early 20th century England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;A golf-loving American composer George Bevan falls in love with a mysterious young lady who takes refuge in his taxicab one day. When he later tracks her down to a romantic rural manor, mistaken identity leads to all manner of brouhaha.&lt;/p&gt;
