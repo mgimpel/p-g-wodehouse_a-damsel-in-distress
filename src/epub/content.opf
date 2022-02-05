@@ -50,7 +50,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/2233</dc:source>
 		<dc:source>https://archive.org/details/damselindistress00wode_0</dc:source>
 		<dc:source>https://archive.org/details/adamselindistre00wodegoog</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">N/A</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Damsel_in_Distress</meta>
