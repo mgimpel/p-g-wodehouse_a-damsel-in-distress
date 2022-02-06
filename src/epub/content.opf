@@ -30,16 +30,13 @@
 		<meta property="file-as" refines="#title">Damsel in Distress, A</meta>
 		<dc:subject id="subject-1">Humorous stories</dc:subject>
 		<dc:subject id="subject-2">Nobility -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Blandings Castle (England : Imaginary place) -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Shropshire (England) -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Nobility -- England -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062975</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008108192</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
-		<meta property="term" refines="#subject-3">sh2009117268</meta>
-		<meta property="authority" refines="#subject-4">LCSH</meta>
-		<meta property="term" refines="#subject-4">sh2008116951</meta>
+		<meta property="term" refines="#subject-3">sh2010103775</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A humorous story of mistaken identity in early 20th century England.</dc:description>
