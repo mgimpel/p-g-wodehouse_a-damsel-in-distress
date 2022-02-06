@@ -50,7 +50,7 @@ section[epub|type~="dedication"] > *{
 
 [epub|type~="z3998:verse"] > header > [epub|type~="title"]{
 	font-variant: small-caps;
-	text-indent: .5em;
+	margin-bottom: .5em;
 }
 
 p span.i1{
@@ -76,4 +76,11 @@ footer{
 
 p[epub|type~="z3998:salutation"]{
 	margin-bottom: .5em;
+}
+
+hr{
+	border: none;
+	margin-bottom: 1em;
+	margin-top: 1em;
+	width: 1%;
 }
