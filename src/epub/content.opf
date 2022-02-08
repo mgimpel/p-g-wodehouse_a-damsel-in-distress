@@ -41,7 +41,8 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A humorous story of mistaken identity in early 20th century England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A golf-loving American composer George Bevan falls in love with a mysterious young lady who takes refuge in his taxicab one day. When he later tracks her down to a romantic rural manor, mistaken identity leads to all manner of brouhaha.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;A Damsel in Distress&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt; was serialised in &lt;i&gt;The Saturday Evening Post&lt;/i&gt; in 1919. It was later adapted into a silent film, a stage play and a musical starring &lt;i&gt;Fred Astaire&lt;/i&gt;&lt;/p&gt;
+			&lt;p&gt;In the book, an American composer, George Bevan, falls in love with a mysterious young lady who takes refuge in his taxicab one day. He tracks her down to an english country manor, where mistaken identity leads to all manner of comedy and excitement.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2233</dc:source>
